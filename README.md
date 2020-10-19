@@ -1,2 +1,2 @@
-# df-semantics
-Semantic data platform, services
+# semantics
+Semantics data platform, vars
